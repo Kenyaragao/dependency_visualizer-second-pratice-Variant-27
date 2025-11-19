@@ -1,7 +1,7 @@
 {
     "package_name": "example-crate",
-    "repository_url": "https://github.com/owner/example-crate.git",
-    "use_test_repo": true,
+    "repository_url": "https://github.com/BurntSushi/ripgrep.git",
+    "use_test_repo": false,
     "package_version": "0.1.0",
     "output_image_name": "deps.svg",
     "max_depth": 5,
